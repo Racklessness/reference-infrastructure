@@ -1,0 +1,5 @@
+/.idea
+/.terraform/
+local.tfvars
+terraform.tfstate
+terraform.tfstate.backup
